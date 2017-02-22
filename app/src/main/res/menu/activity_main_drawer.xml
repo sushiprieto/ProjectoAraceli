@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Recetas">
+        <menu>
+            <item
+                android:id="@+id/nav_beginveganbegun"
+                android:icon="@drawable/apple"
+                android:title="beginveganbegun.es" />
+            <item
+                android:id="@+id/nav_recetasveganas"
+                android:icon="@drawable/tomato"
+                android:title="recetasveganas.net" />
+            <item
+                android:id="@+id/nav_veganisimo"
+                android:icon="@drawable/beans"
+                android:title="veganisimo.org" />
+            <item
+                android:id="@+id/nav_cookpad"
+                android:icon="@drawable/asparagus"
+                android:title="cookpad.com" />
+        </menu>
+    </item>
+
+</menu>
